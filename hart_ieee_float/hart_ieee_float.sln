@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hart_ieee_float", "hart_ieee_float\hart_ieee_float.csproj", "{923914D6-DF14-4DC9-943F-93C5DE9AED7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923914D6-DF14-4DC9-943F-93C5DE9AED7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923914D6-DF14-4DC9-943F-93C5DE9AED7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923914D6-DF14-4DC9-943F-93C5DE9AED7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923914D6-DF14-4DC9-943F-93C5DE9AED7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B7DF1F-2C1C-4FE5-BBFE-3BD80B3ADA71}
+	EndGlobalSection
+EndGlobal
